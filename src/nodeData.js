@@ -1,0 +1,113 @@
+var nodeData = [{
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': 'b171582290b6443792519351c52b21c3',
+  'MGR_NAME': '童卫明'
+}, {
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': '9d1d843d786f404898329c91d7f4291e',
+  'MGR_NAME': '陈金凯'
+}, {
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': 'b8d40bd0473349ba915de67f2eea1d4f',
+  'MGR_NAME': '李倩营销'
+}, {
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': 'f2f6826fab1a400cb490efd29c75e132',
+  'MGR_NAME': '肖锋'
+}, {
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': '549ae66c889e4817ad9fecc0ade90865',
+  'MGR_NAME': '李赐求'
+}, {
+  'DEPT_ID': '81580d02151a4dd9a2631ebcb3385e17',
+  'USER_ID': 'd1edd0f74eb741e686e2878f899ecc6b',
+  'MGR_NAME': '杨光士'
+}, {
+  'DEPT_ID': 'c93d1170d72142478649dd58a7a1c75f',
+  'USER_ID': 'af302857b7eb4dfa9500176d9d364075',
+  'MGR_NAME': '向维巍'
+}, {
+  'DEPT_ID': 'c93d1170d72142478649dd58a7a1c75f',
+  'USER_ID': 'd96a0d9957a34bf791c8b056dcd4e25f',
+  'MGR_NAME': '冯静'
+}, {
+  'DEPT_ID': 'c93d1170d72142478649dd58a7a1c75f',
+  'USER_ID': 'feb71039afde43afb0c256e444c697cf',
+  'MGR_NAME': '吴舒乐'
+}, {
+  'DEPT_ID': 'c93d1170d72142478649dd58a7a1c75f',
+  'USER_ID': '350d46bc4fc642dfaab017c473e6a36c',
+  'MGR_NAME': '陈元晶'
+}, {
+  'DEPT_ID': '596c5c4e9c4f4e9a93761d871efa6a28',
+  'USER_ID': '9ab79c85690a43618be93ef0a415fcd3',
+  'MGR_NAME': '王春燕'
+}, {
+  'DEPT_ID': '596c5c4e9c4f4e9a93761d871efa6a28',
+  'USER_ID': '9e356feab7fe404b9edc11bf84d99541',
+  'MGR_NAME': '陈国强'
+}, {
+  'DEPT_ID': '596c5c4e9c4f4e9a93761d871efa6a28',
+  'USER_ID': '7e5c95d41a224b60804d685b6a2fc4fe',
+  'MGR_NAME': '陈仕钊'
+}, {
+  'DEPT_ID': '596c5c4e9c4f4e9a93761d871efa6a28',
+  'USER_ID': 'c654f091edb54f7384d184eb8f469156',
+  'MGR_NAME': '李烜'
+}, {
+  'DEPT_ID': '24a3df124c6747b79e1d3e1713fe4071',
+  'USER_ID': 'a8a13ad310b34e998aeff2649b2f4e2e',
+  'MGR_NAME': '温淑文'
+}, {
+  'DEPT_ID': '2773f318b3254b4d8ee43e0d3468d906',
+  'USER_ID': '7e47049188e6463f8d248a2aa14c72fb',
+  'MGR_NAME': '张然'
+}, {
+  'DEPT_ID': 'd3ba21cfb67f4abb8f2405af734e3876',
+  'USER_ID': '00c2af32a74e4473a814135dc4d7fd42',
+  'MGR_NAME': '张柳欢'
+}, {
+  'DEPT_ID': '1cbd4fc832e2419e97b94dffa6e7d01e',
+  'USER_ID': '9f025844bd39410ebef4599ba237e48e',
+  'MGR_NAME': '徐华娣'
+}, {
+  'DEPT_ID': '596c5c4e9c4f4e9a93761d871efa6a28',
+  'USER_ID': '44d1f6f144ad45ca8c3fad4cab3e067c',
+  'MGR_NAME': '龙婵娟'
+}, {
+  'DEPT_ID': '24a3df124c6747b79e1d3e1713fe4071',
+  'USER_ID': 'c81962c685c64dc2977849b10745ced7',
+  'MGR_NAME': '李志刚'
+}, {
+  'DEPT_ID': '9eb9ac1fcd1d4b68a2c25695f4d49666',
+  'USER_ID': 'f3062d19fcee489680286c498cf946d4',
+  'MGR_NAME': '金城'
+}, {
+  'DEPT_ID': 'e428473da9704b5aba88f71a6984bd45',
+  'USER_ID': 'c9a4de22287542d3a5a261657df48e1d',
+  'MGR_NAME': '周为民'
+}, {
+  'DEPT_ID': '21cc429b1633449881edcae07efab441',
+  'USER_ID': '5b3a059d07f24184bfe09f7fc9de3fc4',
+  'MGR_NAME': '唐磊'
+}, {
+  'DEPT_ID': '2e60264f309d474baed513de0597e7e0',
+  'USER_ID': 'fcca99132d074e9e912122e3000ea340',
+  'MGR_NAME': '徐晓斐'
+}, {
+  'DEPT_ID': '2e60264f309d474baed513de0597e7e0',
+  'USER_ID': '9cbe0162cfb64724b9003bffb2e9fa0e',
+  'MGR_NAME': '陈明'
+}, {
+  'DEPT_ID': '2e60264f309d474baed513de0597e7e0',
+  'USER_ID': '61be097637334dff9c03bfab89515ff2',
+  'MGR_NAME': '林招占'
+}, {
+  'DEPT_ID': '4d57b293f6024c578435a14108f902e7',
+  'USER_ID': '40efb3a3a36c449187ce0c34cb84d28d',
+  'MGR_NAME': '谢巍'
+}, {
+  'DEPT_ID': '2773f318b3254b4d8ee43e0d3468d906',
+  'USER_ID': '279e4f50a0f94ddab08ea6d0a7cde7fa',
+  'MGR_NAME': '黄勃国'
+}];
